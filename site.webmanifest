@@ -1,0 +1,24 @@
+{
+    "name": "Cool Barber - Men’s Barbershop in The Middle East",
+    "short_name": "Cool Barber",
+		"description": "Men’s Barbershop in The Middle East",
+    "icons": [
+        {
+            "src": "img/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+						"purpose": "any maskable"
+        },
+        {
+            "src": "img/favicon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+						"purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3b322d",
+    "background_color": "#3b322d",
+    "start_url": "https://javidrashkhansoi.github.io/cool-barber",
+    "display": "standalone",
+    "orientation": "portrait"
+}
